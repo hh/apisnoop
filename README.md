@@ -34,6 +34,7 @@ The initial raw data is available within our [v0.0.1-audit-logs release](https:/
 ### Meetings / Demos
 
 #### Past
+- July 12th, 2018 - SIG Architecture - Initial KEP discussion [recording](https://youtu.be/oz_KnEH3gww?t=2478)
 - [June 12th, 2018 - SIG Node - APISnoop initial mapping of endpoints to e2e tests](https://docs.google.com/presentation/d/1wrdBlLtHb_z5qmNwDDPrc9DRDs3Klpac83v8h5iAqjE/edit#slide=id.g37b1fc65d7_0_87)
 - May 23rd, 2018 - Conformance WG - APISnoop: easing contribution and driving pod api utilization [Recording](https://www.youtube.com/watch?v=XJgK6jw_mPc&t=720)
 - [May 10th, 2018 - SIG Architecture - APISnoop Introduction](https://docs.google.com/presentation/d/1JvWYSGWdiPq3YOINCJVUJaI4RVN642xSpzX9JY5HhTE/edit#slide=id.g37b1fc65d7_0_87) & [Recording](https://www.youtube.com/watch?v=gCTLdzsqzaY&feature=youtu.be&list=PL69nYSiGNLP2m6198LaLN6YahX7EEac5g&t=2635)
